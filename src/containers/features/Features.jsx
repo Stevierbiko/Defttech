@@ -36,8 +36,8 @@ const featuresData = [
 const Features = () => (
   <div className="deft__features section__padding" id="features">
     <div className="deft__features-heading">
-      <h1 className="gradient__text">The Future is Now and You Just Need to Realize It. Step into Future Today. & Make it Happen.</h1>
-      <p>Request Early Access to Get Started</p>
+      <h1 className="gradient__text">Digital transformation goes beyond the implementation of a solution. At DEFT we offer you different services that complement and boost the technological deployment of your business. </h1>
+      <p><a href="mailto:info@defttech.co.ke">Start the digital transformation of your company!</a></p>
     </div>
     <div className="deft__features-container">
       {featuresData.map((item, index) => (

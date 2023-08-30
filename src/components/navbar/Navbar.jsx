@@ -15,7 +15,7 @@ const Navbar = () => {
         <div className="deft__navbar-links_container">
           <p><a href="#home">Home</a></p>
           <p><a href="#wgpt3">About Us</a></p>
-          <p><a href="#possibility">Open AI</a></p>
+          <p><a href="#possibility">Contact Us</a></p>
           <p><a href="#features">Solutions</a></p>
           <p><a href="#blog">Products</a></p>
         </div>
@@ -33,7 +33,7 @@ const Navbar = () => {
           <div className="deft__navbar-menu_container-links">
             <p><a href="#home">Home</a></p>
             <p><a href="#wgpt3">About US</a></p>
-            <p><a href="#possibility">Open AI</a></p>
+            <p><a href="#possibility">Contact Us</a></p>
             <p><a href="#features">Solutions</a></p>
             <p><a href="#blog">Products</a></p>
           </div>

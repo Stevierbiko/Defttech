@@ -1,13 +1,13 @@
-import blog01 from '../../assets/blog01.png';
-import blog02 from '../../assets/blog02.png';
-import blog03 from '../../assets/blog03.png';
-import blog04 from '../../assets/blog04.png';
-import blog05 from '../../assets/blog05.png';
+import BoardLayout from '../../assets/Board-Layout.png';
+import Dynamics365NGO from '../../assets/Dynamics-365-NGO.webp';
+import MicrosoftDynamicsNAV from '../../assets/Microsoft-Dynamics-NAV.webp';
+import onedrive from '../../assets/onedrive.png';
+import dynamics365 from '../../assets/dynamics365.png';
 
 export {
-  blog01,
-  blog02,
-  blog03,
-  blog04,
-  blog05,
+  BoardLayout,
+  Dynamics365NGO,
+  MicrosoftDynamicsNAV,
+  onedrive,
+  dynamics365,
 };

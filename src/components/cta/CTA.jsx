@@ -2,13 +2,13 @@ import React from 'react';
 import './cta.css';
 
 const CTA = () => (
-  <div className="gpt3__cta">
-    <div className="gpt3__cta-content">
-      <p>Request Early Access to Get Started</p>
-      <h3>Register Today & start exploring the endless possibilities.</h3>
+  <div className="deft__cta">
+    <div className="deft__cta-content">
+      <p>Request Demo to Get Started</p>
+      <h3>Do you want an appointment with a consultant?</h3>
     </div>
-    <div className="gpt3__cta-btn">
-      <button type="button">Get Started</button>
+    <div className="deft__cta-btn">
+      <button type="button"><a href="mailto:info@defttech.co.ke">Get Started</a></button>
     </div>
   </div>
 );

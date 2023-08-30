@@ -1,33 +1,33 @@
-.gpt3__blog {
+.deft__blog {
     display: flex;
     flex-direction: column;    
 }
 
-.gpt3__blog-heading {
+.deft__blog-heading {
     width: 100%;
     text-align: left;
 
     margin-bottom: 5rem;
 }
 
-.gpt3__blog-heading h1 {
-    font-size: 62px;
+.deft__blog-heading h1 {
+    font-size: 50px;
     line-height: 75px;
     font-family: var(--font-family);
     font-weight: 800;
 }
 
-.gpt3__blog-container {
+.deft__blog-container {
     display: flex;
     flex-direction: row;
 }
 
-.gpt3__blog-container_groupA {
+.deft__blog-container_groupA {
     flex: 0.75;
     margin-right: 2rem;
 }
 
-.gpt3__blog-container_groupB {
+.deft__blog-container_groupB {
     flex: 1;
 
     display:grid;
