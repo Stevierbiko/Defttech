@@ -54,6 +54,12 @@
     outline: none;
     cursor: pointer;
     min-width: 150px;
+    transition: 0.4s;
+}
+.deft__cta-btn button:hover{
+    background: transparent;
+    border: 1px solid #fff;
+    transform: scale(1.2);
 }
 
 @media screen and (max-width: 650px) {

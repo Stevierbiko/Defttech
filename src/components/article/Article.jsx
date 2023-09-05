@@ -11,7 +11,7 @@ const Article = ({ imgUrl, content, text }) => (
         <h3>{text}</h3>
         <p>{content}</p>
       </div>
-      <p>Read more</p>
+      {/* <p>Read more</p> */}
     </div>
   </div>
 );

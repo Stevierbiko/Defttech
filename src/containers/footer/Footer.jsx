@@ -9,7 +9,7 @@ const Footer = () => (
     </div>
 
     <div className="deft__footer-btn">
-      <p><a href="mailto:info@defttech.co.ke">How can we help you?</a></p>
+      <a href="mailto:info@defttech.co.ke">How can we help you?</a>
     </div>
 
     <div className="deft__footer-links">

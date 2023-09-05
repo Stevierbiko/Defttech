@@ -13,7 +13,7 @@ const Navbar = () => {
           <img src={logo} />
         </div>
         <div className="deft__navbar-links_container">
-          <p><a href="#home">Home</a></p>
+         <p> <a href="#home">Home</a></p>
           <p><a href="#wgpt3">About Us</a></p>
           <p><a href="#possibility">Contact Us</a></p>
           <p><a href="#features">Solutions</a></p>
