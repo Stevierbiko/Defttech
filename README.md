@@ -1,20 +1,6 @@
 # Modern UI/UX GPT-3
-### [Live Site](https://gpt3-jsm.com/)
+### [Live Site](https://defttech.co.ke/)/)
 
-![Modern UI/UX GPT-3](https://i.ibb.co/TR5LW9z/image.png)
-
-## Stay up to date with new projects
-New major projects coming soon, subscribe to the mailing list to stay up to date https://resource.jsmasterypro.com/newsletter
-
-## Introduction
-This is a code repository for the corresponding video tutorial. 
-
-You might be wondering, what are the prerequisites for building such an amazing website? Don't worry, this course is completely beginner-friendly! We're going to start easy and them move to more complex topics. Every step of the way will be explained. Alongside building the website, you'll learn:
-
-- React Functional components and their reusability
-- React file and folder structure
-- Fundamental CSS properties to master flex & grid
-- Fundamentals of the CSS BEM Model
-- From soft and pleasant animations to complex gradients
-- Perfectly placed media queries for satisfactory responsiveness covering almost devices
-- And at the end you'll learn how to deploy your websites to extremely fast servers and give them a custom domain name.
+![Screenshot from 2023-09-18 11-25-31](https://github.com/Stevierbiko/Defttech/assets/65300180/f95ef477-661c-440d-a077-e0871a243d10)
+A single integrated and secure platform for your business. At Deft we guarantee Security, flexibility and adaptability from the largest software manufacturer; Microsoft solutions a market-leading software that adapts to your needs.
+e implement Microsoft solutions tailored to our customers' industries. Each industry has its own characteristics and faces specific challenges. Our consulting team is made up of professionals specialised in different sectors who understand your business and will help you to digitise it successfully.
